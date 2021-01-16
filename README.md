@@ -8,7 +8,7 @@ Create and List Todos along with Live News and a minimilastics Motivator to moti
 
 # Live Demo 
 
-(https://breaking-bad-list.netlify.app/)
+()
 
 #  Features!
 
