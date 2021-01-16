@@ -6,9 +6,7 @@
 Create and List Todos along with Live News and a minimilastics Motivator to motivate you. Powered by React , Create React App, Antd and React Router
 
 
-# Live Demo 
 
-()
 
 #  Features!
 
