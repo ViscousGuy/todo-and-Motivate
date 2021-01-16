@@ -25,7 +25,7 @@ const LiveNewsList = ({ contentStyle }) => {
       rows.push(
         <div>
           <article style={contentStyle}>
-            <a>{news[i].title}</a>
+            {news[i].title}
           </article>
         </div>
       );
