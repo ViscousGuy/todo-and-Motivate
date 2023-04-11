@@ -76,4 +76,4 @@ ISC
 
 ### Author
 
-Shubam D. Anchaliya (shubhamanchaliya84@gmail.com)
+Shubham D. Anchaliya (shubhamanchaliya84@gmail.com)
